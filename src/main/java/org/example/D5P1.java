@@ -18,7 +18,9 @@ public  class D5P1{
             int next = a + b;
             a = b;
             b = next;
-        }
+
+                    }
+        System.out.println("day 5 problem 1 completed");
 
     }
 }
