@@ -12,8 +12,11 @@ public class Main {
 //        Problem2 game = new Problem2();
 //        game.playGame();
 
-        D5P1 series=new D5P1();
-        series.fibonacci();
+//        D5P1 series=new D5P1();
+//        series.fibonacci();
+
+        D5P2 pferfectNumber= new D5P2();
+        pferfectNumber.checkPerfectNumber();
 
 
     }
