@@ -6,11 +6,14 @@ public class Main {
 
 
 
-        Problem1 employeeWage = new Problem1();
-        employeeWage.computeEmployeeWage();
+//        Problem1 employeeWage = new Problem1();
+//        employeeWage.computeEmployeeWage();
+//
+//        Problem2 game = new Problem2();
+//        game.playGame();
 
-        Problem2 game = new Problem2();
-        game.playGame();
+        D5P1 series=new D5P1();
+        series.fibonacci();
 
 
     }
