@@ -21,8 +21,14 @@ public class Main {
 //        D5P3  primeNumber= new  D5P3();
 //        primeNumber.checkPrime();
 
-        D5P4 rev=new D5P4();
-        rev.reverseNumber();
+//        D5P4 rev=new D5P4();
+//        rev.reverseNumber();
+
+
+
+                D5P5.couponNumbers();
+
+
 
 
     }
