@@ -18,8 +18,11 @@ public class Main {
 //        D5P2 perfectNumber= new D5P2();
 //        perfectNumber.checkPerfectNumber();
 
-        D5P3  primeNumber= new  D5P3();
-        primeNumber.checkPrime();
+//        D5P3  primeNumber= new  D5P3();
+//        primeNumber.checkPrime();
+
+        D5P4 rev=new D5P4();
+        rev.reverseNumber();
 
 
     }
